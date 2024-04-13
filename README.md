@@ -1,12 +1,12 @@
-### Hi there 👋 I'm Paulo Henrique
+### Olá, Sou Paulo Henrique.
 
-# I study data science to gain experience in solving business problems and mastery of analysis tools.
+# Estudo ciência de dados para ganhar experiência na resolução de problemas de negócios e domínio de ferramentas de análise.
 
-- 🧑🏽‍💻 I’m currently working on my github
-- 📈 Understanding the power of continuous learning
-- 📊 I am looking for an opportunity to work professionally as a Data Scientist
+- 🧑🏽‍💻 Atualmente estou trabalhando no meu github
+- 📈 Explorando o potencial do aprendizado contínuo.
+- 📊 Estou entusiasmado com a oportunidade de explorar esse novo campo e agregar valor por meio da análise e interpretação de informações.
 
-### Connect with me:
+### Entre em contato:
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phf-paulohenrique/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/phf_paulohenrique/)
