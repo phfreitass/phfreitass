@@ -1,6 +1,6 @@
 ### Olá, Sou Paulo Henrique.
 
-# Estudo ciência de dados para ganhar experiência na resolução de problemas de negócios e domínio de ferramentas de análise.
+# Estudo  análise de dados para ganhar experiência na resolução de problemas de negócios e domínio de ferramentas de análise.
 
 - 🧑🏽‍💻 Atualmente estou trabalhando no meu github
 - 📈 Explorando o potencial do aprendizado contínuo.
