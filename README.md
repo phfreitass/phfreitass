@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=4493F8&center=true&vCenter=true&width=560&lines=Previs%C3%A3o+de+demanda+e+de+vendas;Curva+ABC+e+gest%C3%A3o+de+estoque;Dashboards+gerenciais+em+Power+BI;11+anos+de+experi%C3%AAncia+em+log%C3%ADstica" alt="Previsão de demanda, curva ABC, dashboards em Power BI e 11 anos de experiência em logística">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3500&pause=1000&color=4493F8&center=true&vCenter=true&width=560&lines=Previs%C3%A3o+de+demanda+e+de+vendas;Curva+ABC+e+gest%C3%A3o+de+estoque;Dashboards+gerenciais+em+Power+BI" alt="Previsão de demanda, curva ABC e dashboards em Power BI">
 </p>
 
 ## Ferramentas
