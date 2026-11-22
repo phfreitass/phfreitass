@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t">
+  <title id="t">Paulo Henrique, analista de dados</title>
+  <rect x="1" y="1" width="1198" height="318" rx="20" fill="#0f1b2d" stroke="#22385a" stroke-width="2"/>
+
+  <g stroke="#1b2c46" stroke-width="1">
+    <line x1="740" y1="90" x2="1130" y2="90"/>
+    <line x1="740" y1="140" x2="1130" y2="140"/>
+    <line x1="740" y1="190" x2="1130" y2="190"/>
+  </g>
+  <line x1="740" y1="240" x2="1130" y2="240" stroke="#2c4366" stroke-width="2"/>
+
+  <g fill="#2f6fb5">
+    <rect x="760" y="182" width="30" height="58" rx="4"/>
+    <rect x="806" y="160" width="30" height="80" rx="4"/>
+    <rect x="852" y="172" width="30" height="68" rx="4"/>
+    <rect x="898" y="138" width="30" height="102" rx="4"/>
+    <rect x="944" y="148" width="30" height="92" rx="4"/>
+    <rect x="990" y="116" width="30" height="124" rx="4"/>
+  </g>
+  <g fill="none" stroke="#5b8fd0" stroke-width="2" stroke-dasharray="5 5">
+    <rect x="1037" y="99" width="28" height="140" rx="4"/>
+    <rect x="1083" y="80" width="28" height="159" rx="4"/>
+  </g>
+
+  <polyline points="775,182 821,160 867,172 913,138 959,148 1005,116" fill="none" stroke="#f2c811" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <polyline points="1005,116 1051,99 1097,80" fill="none" stroke="#f2c811" stroke-width="3" stroke-dasharray="7 6" stroke-linecap="round"/>
+  <g fill="#f2c811">
+    <circle cx="775" cy="182" r="5"/>
+    <circle cx="821" cy="160" r="5"/>
+    <circle cx="867" cy="172" r="5"/>
+    <circle cx="913" cy="138" r="5"/>
+    <circle cx="959" cy="148" r="5"/>
+    <circle cx="1005" cy="116" r="5"/>
+  </g>
+  <g fill="#0f1b2d" stroke="#f2c811" stroke-width="3">
+    <circle cx="1051" cy="99" r="5"/>
+    <circle cx="1097" cy="80" r="5"/>
+  </g>
+
+  <g font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <text x="80" y="148" font-size="64" font-weight="700" fill="#ffffff">Paulo Henrique</text>
+    <text x="82" y="200" font-size="30" fill="#9cc4f2">Analista de dados</text>
+    <text x="82" y="246" font-size="20" fill="#7f9cc2" letter-spacing="0.5">SQL  ·  Python  ·  Power BI  ·  Excel</text>
+  </g>
+</svg>
